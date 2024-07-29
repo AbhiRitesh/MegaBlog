@@ -28,7 +28,7 @@ function App() {
       <div className='w-full block'>
         <Header/>
         <main className='p-4'>
-          TODO: <Outlet/>
+          <Outlet/>
         </main>
         <Footer/>
       </div>
